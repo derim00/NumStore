@@ -44,4 +44,16 @@ Précision : tout les créateurs sont créditer sur le site.
 * **Rejoindre le Discord communautaire :** [.gg/derim](https://discord.gg/derim) ou [.gg/sti2d](https://discord.gg/sti2d)
 * Un problème ou une question ? Utilisez le centre de support intégré directement sur notre site web.
 
+---
+## Monétisation
+
+20% des revenus seront reversés au créateur des applications via une sponso github
+Les 80% seront divisé entre moi et les autres personnes membres du projet
+
+---
+## Update
+
+#1
+-Suppression des pubs de 10 secondes avant un telechargement
+
 *Ce projet est un portail communautaire indépendant et n'est pas affilié à NumWorks SAS.*
