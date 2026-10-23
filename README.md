@@ -6,7 +6,7 @@ Store communautaire pour NumWorks ! Retrouvez tous les meilleurs jeux, émulateu
 
 Bienvenue sur le dépôt vitrine officiel de **NumStore**, la plateforme communautaire de référence pour enrichir, exploiter et transformer votre calculatrice NumWorks.
 
-🌐 **Accéder au site officiel :** [Insérer ton lien Vercel ici]
+🌐 **Accéder au site officiel :** https://numstore.vercel.app/
 
 ---
 
