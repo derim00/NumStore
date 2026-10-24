@@ -84,5 +84,8 @@ Retrouvez sur notre portail une vaste sélection de projets open-source et d'ada
 ### #3
 - Intégration de **NumNotes** (par NumPlay / Mason363) dans la section Utilitaires pour la gestion de fiches de révision, présentations (slides) et emplois du temps.
 
+### #4
+- Matrice AI V4
+
 ---
 *Ce projet est un portail communautaire indépendant et n'est pas affilié à NumWorks SAS.*
