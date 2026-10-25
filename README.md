@@ -12,7 +12,7 @@ Retrouvez sur notre portail une vaste sélection de projets open-source et d'ada
 
 ### 🛠️ Utilitaires & Cours
 - **📚 NumNotes :** Créez et embarquez des fiches de révision, documents, présentations PowerPoint (slides), photos et emplois du temps directement sur votre calculatrice (par NumPlay / Mason363).
-- **📝 Cheatsheet :** Affichez vos fiches de révision, cours et textes personnalisés directement sur votre écran (avec convertisseur d'images dédié).
+- **📝 Cheatsheet :** Affichez vos fiches de révision, cours et textes personnalisés directement sur votre écran (avec convertisseur d'images dédié). 
 - **🤖 Matrice AI (v3.4) :** L'assistant de référence, spécialement adapté pour les filières STI2D et scientifiques.
 - **🖼️ Gallery :** Visionneuse d'images, graphiques et schémas techniques.
 - **🔒 Lock (Code PIN) :** Sécurisez l'accès à votre calculatrice avec un code secret au démarrage.
