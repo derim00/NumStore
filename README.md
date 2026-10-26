@@ -94,5 +94,9 @@ Retrouvez sur notre portail une vaste sélection de projets open-source et d'ada
 - Ajout de 3 jeux
 - Refonte complète du site
 
+### #7
+
+- Ajout de 5 jeux
+
 ---
 *Ce projet est un portail communautaire indépendant et n'est pas affilié à NumWorks SAS.*
