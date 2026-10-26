@@ -90,5 +90,9 @@ Retrouvez sur notre portail une vaste sélection de projets open-source et d'ada
 ### #5
 - Nouveau système de pub
 
+### #6
+- Ajout de 3 jeux
+- Refonte complète du site
+
 ---
 *Ce projet est un portail communautaire indépendant et n'est pas affilié à NumWorks SAS.*
