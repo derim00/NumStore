@@ -1,4 +1,4 @@
-# 🚀 NumStore - Portail Communautaire Apps & Jeux NumWorks
+# 🚀 NumStore - Portail Communautaire Apps & Jeux NumWorks 
 
 Store communautaire pour NumWorks ! Retrouvez tous les meilleurs jeux, émulateurs et applications indispensables pour votre calculatrice en un clic.
 
